@@ -1,8 +1,9 @@
 # Mini-Projet-Programation
 Le mini projet de module Programation pour la formation doctoral 2024-2025
 Made by:
-TERRAK Abderraouf Sidali : abderraouf.terrak@ummto.dz  /  Doctorant en Électronique des Systèmes Embarqué
-MADJOUDJ Abdeslam :      abdessalam.madjoudj@ummto.dz  /  Doctorant en Électronique des Systèmes Embarqué
+SAADA Nesrine : nesrine.saada@ummto.dz  /  Doctorante en Électrotechnique industrielle
+MADJOUDJ Abdeslam :      sara.bezzouh@ummto.dz  / Doctorante en Électrotechnique industrielle
+ZOURDANI Fatima: fatima.zourdani@ummto.dz  / Doctorante en Reseaux electriques
 
 1. L'intitule de projet
 Ce projet simule le suivi et l’analyse de la consommation énergétique des moteurs d’un drone.
